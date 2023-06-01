@@ -1,0 +1,6 @@
+Single-Responsibility-Principle(SRP)
+------------------------------------
+Her sınıfın yalnızca bir sorumluluğu olması gerektiğini belirtir.
+Bir sınıfın tek bir nedenden dolayı değişmesi anlamına gelir.
+Asıl mantık 1 class içinde her şeyi yaptırmak istemiyoruz,
+her ayrı fonksiyon için ayrı class oluşturmak temel mantık.
