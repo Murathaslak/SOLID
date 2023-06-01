@@ -1,0 +1,5 @@
+Open-Close-Principle(OCP)
+--------------------------
+Yazılım bileşenlerinin değişikliklere kapalı olması ve 
+yeni davranışları eklemek veya mevcut davranışları değiştirmek
+için açık olması gerekliliği.
