@@ -1,0 +1,11 @@
+Liskov-Subsititution-Principle
+------------------------------
+Liskov İkame Prensibi (LSP), bir alt sınıfın, üst sınıfın yerine geçebilmesi gerektiğini ifade eder. 
+Yani, programın herhangi bir yerinde üst sınıfın nesnesi kullanılıyorsa, aynı şekilde alt sınıfın nesnesi de kullanılabilir olmalıdır. 
+Bu prensip, alt sınıfların üst sınıfların davranışını değiştirmeden genişletebileceği anlamına gelir. 
+Böylece kodun esnekliği, sürdürülebilirliği ve yeniden kullanılabilirliği artar.
+
+Özetle alt sınıfı üst sınıfın yerine kullanabiliyoruz.
+
+
+
