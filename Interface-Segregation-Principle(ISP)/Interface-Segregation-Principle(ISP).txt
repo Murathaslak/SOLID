@@ -1,0 +1,15 @@
+Interface-Segregation-Principle(ISP)
+------------------------------------
+Interface Segregation Principle (ISP), bir sınıfın, kullanmadığı arayüz metotlarını uygulamamasını ifade eder. 
+Yani, bir sınıf sadece ihtiyaç duyduğu özellikleri içeren arayüzleri uygulamalıdır.
+
+ISP'nin temel amacı, bir sınıfın gereksiz bağımlılıklardan kaçınmasını ve sadece kendi ihtiyaçlarına odaklanmasını sağlamaktır. 
+Bu prensip, sınıfların daha küçük ve spesifik arayüzlerle bağlantılı olmasını, 
+böylece kodun daha sürdürülebilir, esnek ve yeniden kullanılabilir olmasını hedefler.
+
+Bir sınıf, farklı özellikleri veya davranışları gerektiren farklı modüller veya kullanım senaryoları için tasarlanabilir. 
+Her bir modül veya senaryo için uygun bir arayüz tanımlanmalı ve sınıflar, sadece ihtiyaç duydukları arayüzleri uygulamalıdır. 
+Böylece, bir arayüzde yapılan değişikliklerin, yalnızca ilgili sınıfları etkilemesi sağlanır.
+
+ISP, bağımlılıkları azaltır, sınıflar arasındaki ilişkileri gevşetir ve 
+birbiriyle ilişkisiz modüllerin daha kolay bir şekilde geliştirilmesini sağlar.
